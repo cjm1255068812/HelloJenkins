@@ -1,4 +1,8 @@
-public void static main(String[] args){
-	System.out.println("Hello World");
+public class Demo{
 	
+	public void static main(String[] args){
+		
+	System.out.println("Hello World");
+
+	}
 }
